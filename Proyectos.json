@@ -1,0 +1,31 @@
+{
+    "proyectos": [
+      {
+        "nombre": "Proyecto Nutav",
+        "descripcion": "Aplicación web con sistema de autenticación y gestión de usuarios.",
+        "enlace": "https://proyecto-nutav.vercel.app",
+        "imagen": "https://proyecto-nutav.vercel.app/preview.png"
+      },
+      {
+        "nombre": "Sistema de Login",
+        "descripcion": "Backend desarrollado con NestJS para autenticación y gestión de usuarios.",
+        "enlace": "https://github.com/jhonfabernorena/Nutav-nestJS",
+        "imagen": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      },
+      {
+        "nombre": "SpaceX Project",
+        "descripcion": "Interfaz web que muestra información sobre misiones de SpaceX.",
+        "enlace": "https://jhonfabernorena.github.io/Space_X-main/",
+        "imagen": "https://jhonfabernorena.github.io/Space_X-main/preview.png"
+      }
+    ],
+    "perfil": {
+      "nombre": "Jhon Faber Noreña Piñeres",
+      "linkedin": "https://linkedin.com/in/jhon-faber-noreña-piñeres-b49576225/",
+      "github": {
+        "perfil": "https://github.com/jhonfabernorena?tab=repositories",
+        "imagen": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      }
+    }
+  }
+  
